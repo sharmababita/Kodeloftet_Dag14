@@ -36,6 +36,26 @@ section {
   height: 100vh;
 }
 
+.redContainer {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+
+.blueContainer {
+  height: "100px";
+  width: "100px";
+  background-color: rgb(54, 9, 110);
+}
+
+.yellowContainer {
+  height: "100px";
+  width: "100px";
+  background-color:rgb(170, 16, 16);
+}
+
+
 /* FOOTER */
 footer {
   display: flex;
