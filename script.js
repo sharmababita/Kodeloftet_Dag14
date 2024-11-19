@@ -1,9 +1,9 @@
-const redSquare = document.querySelector('#redSquare');
-console.log(redSquare);
+const blueCirclee = document.querySelector('#blueCircle');
+console.log(blueCircle);
 
-redSquare.style.height = '100px';
-redSquare.style.width = '100px';
-redSquare.style.backgroundColor = 'blue';
+blueCircle.style.height = '500px';
+blueCircle.style.width = '500px';
+blueCircle.style.backgroundColor = 'green';
 
 // Oppgave 1: Lag en grønn firkant.
 // // Lage HTML og gi en ID
